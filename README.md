@@ -1,5 +1,7 @@
 ## Hello 👋
 
+[![Image](./.pictures/card.png)]()
+
 I am a junior software developer attending my second year of university studying computing science at **Simon Fraser University**. I first started programming in **JavaScript** before learning **Python**, **C** and **C++**. While learning these languages, I became familiarized with technologies such as **node.js**, **React**, **Git**, **HTML5 / CSS3**, **Bootstrap**, and the **UNIX command line**.
 
 ### Open Source Contribution :computer:
