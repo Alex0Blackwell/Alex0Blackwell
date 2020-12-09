@@ -14,12 +14,10 @@ I am a second-year computing science student at Simon Fraser University. I use G
   <a href="https://github.com/Alex0Blackwell">
     <img src="https://github-readme-stats.vercel.app/api?username=Alex0Blackwell&hide=contribs&show_icons=true&include_all_commits=true&count_private=true&theme=nord"/>
   </a>
+ 
   <i>GitHub statistics <a href="https://github.com/anuraghazra/github-readme-stats">credit</a> to <a href="https://github.com/anuraghazra">Anurag Hazra</a></i>
 </p>
-<!-- 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=Alex0Blackwell&hide=contribs&show_icons=true&include_all_commits=true&count_private=true&theme=nord)](https://github.com/Alex0Blackwell)   
-*Github statistics [credit](https://github.com/anuraghazra/github-readme-stats) to [Anurag Hazra](https://github.com/anuraghazra)*
--->
+
 
 :smile: Pronouns: he/him  
 
