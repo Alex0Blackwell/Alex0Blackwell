@@ -1,14 +1,25 @@
-## Hello 👋
+<h2 align ="center"> Hello 👋 </h2>
+ 
 
 [![Image](https://github.com/Alex0Blackwell/Alex0Blackwell/blob/master/.pictures/card.png)](https://github.com/Alex0Blackwell "Follow me :)")
 
 I am a second-year computing science student at Simon Fraser University. I use GitHub mainly as version control for developing and displaying personal projects as well as miscellaneous code I write. My interests include operating systems and machine learning. I hope to start some new projects involving these subjects soon after taking some relevant university courses this spring.  
 
-### Open Source Contribution :computer:
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)  
+<h3 align ="center"> Open Source Contribution :computer: </h3>
+<p align="center">
+  <img src="https://badges.frapsoft.com/os/v1/open-source.png?v=103">
+ </p>
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=Alex0Blackwell&hide=contribs&show_icons=true&include_all_commits=true&count_private=true&theme=nord)](https://github.com/Alex0Blackwell)  
+<p align="center">
+  <a href="https://github.com/Alex0Blackwell">
+    <img src="https://github-readme-stats.vercel.app/api?username=Alex0Blackwell&hide=contribs&show_icons=true&include_all_commits=true&count_private=true&theme=nord"/>
+  </a>
+  <i>GitHub statistics <a href="https://github.com/anuraghazra/github-readme-stats">credit</a> to <a href="https://github.com/anuraghazra">Anurag Hazra</a></i>
+</p>
+<!-- 
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=Alex0Blackwell&hide=contribs&show_icons=true&include_all_commits=true&count_private=true&theme=nord)](https://github.com/Alex0Blackwell)   
 *Github statistics [credit](https://github.com/anuraghazra/github-readme-stats) to [Anurag Hazra](https://github.com/anuraghazra)*
+-->
 
 :smile: Pronouns: he/him  
 
