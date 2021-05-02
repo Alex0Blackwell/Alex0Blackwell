@@ -3,7 +3,8 @@
 
 [![Image](https://github.com/Alex0Blackwell/Alex0Blackwell/blob/master/.pictures/card.png)](https://github.com/Alex0Blackwell "Follow me :)")
 
-I am a second-year computing science student at Simon Fraser University. I use GitHub mainly as version control for developing and displaying personal projects as well as miscellaneous code I write. My interests include operating systems and machine learning. I hope to start some new projects involving these subjects soon after taking some relevant university courses this spring.  
+I am a third-year computing science student at Simon Fraser University (SFU). Among the many areas of computing science, machine learning and database systems are my favourites. My upper-division years will reflect my interests with an emphasis on A.I. and data courses. Further, I hope to develop projects using the newly learned M.L. and database content.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently, however, I am excited to be interning at [Demonware](https://www.demonware.net/) until December 2021. During my internship, I will continue to develop new projects on this personal GitHub account!
 
 <h3 align ="center"> Open Source Contribution :computer: </h3>
 <p align="center">
@@ -21,12 +22,16 @@ I am a second-year computing science student at Simon Fraser University. I use G
 </p>
 
 
-:smile: Pronouns: he/him  
-
-:eyeglasses: Languages: C++, Python, JavaScript, C  
-:books: Technologies: HTML/CSS, Git, Unix command line, jQuery, Node.js, Continous Integration, Jest testing framework  
-:computer: Operating Systems: GNU/Linux (Manjaro, Ubuntu, Kali), Windows, MacOS  
+:smile: **Pronouns:** he/him  
+:office: **Work:** Software Developer Intern at Demonware  
+:school: **School:** 3rd year computing science at Simon Fraser University  
 
 
-:mailbox: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alex-blackwell/)!  
+:eyeglasses: **Languages:** C++, Python, JavaScript, Java, C, x86-64 Assembly  
+:books: **Technologies:** Git, SQL, MySQL, Node.js, Flask, Testing Frameworks (Jest, Junit, ...), Travis CI, Unix command line,  
+:bar_chart: **Applications:** AWS, VIM, LaTeX, GDB Debugger, Figma, Draw.io, Google Analytics  
+:computer: **Operating Systems:** GNU/Linux (Manjaro, Ubuntu, Kali), Windows, MacOS  
+
+
+:mailbox: Connect with me on [LinkedIn](https://www.linkedin.com/in/alex-blackwell/)!  
 Some of my favourite projects I've made are down below. Feel free to fork or use any of my code! 
