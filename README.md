@@ -31,6 +31,6 @@ I am a third-year computing science student at Simon Fraser University (SFU). Am
 :bar_chart: **Applications:** AWS, VIM, LaTeX, GDB Debugger, Figma, Draw.io, Google Analytics  
 :computer: **Operating Systems:** GNU/Linux (Manjaro, Ubuntu, Kali), Windows, MacOS  
 
-:memo: **What I'm Working On:** [ratemymedication](https://ratemymedication.herokuapp.com/)  
+:memo: **What I'm Working On:** [ratemymedication.net](https://ratemymedication.net)  
 :mailbox: Connect with me on [LinkedIn](https://www.linkedin.com/in/alex-blackwell/)!  
 Some of my favourite projects I've made are down below. Feel free to fork or use any of my code! 
