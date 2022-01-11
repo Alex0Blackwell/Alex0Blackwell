@@ -25,7 +25,7 @@ I am a third-year computing science student at Simon Fraser University (SFU). Ev
 
 
 :smile: **Pronouns:** he/him  
-:office: **Work:** Software Developer Intern at Demonware  
+:office: **Work:** Junior Software Engineer at Demonware  
 :school: **School:** 3rd year computing science at Simon Fraser University  
 
 :eyeglasses: **Languages:** Python, C++, JavaScript, Java, C, Bash, X86-64 Assembly, SQL, HTML/CSS  
